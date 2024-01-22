@@ -40,12 +40,12 @@ Include a link or GIF showcasing the functionality of your webpage.
 ```bash
 git clone https://github.com/voltagevalkyrie/many-cards-.git
 
-
-
 cd your-repository
-
 
 # Example command to open in a browser
 google-chrome index.html
+
+
+
 
 
