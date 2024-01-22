@@ -9,6 +9,7 @@ A basic webpage with HTML, CSS, and JavaScript that allows users to scroll down 
 
 ![Screenshot]
 
+![many cards](https://github.com/voltagevalkyrie/many-cards-/assets/149293731/5d01a681-4a58-4eef-a560-031b654425b0)
 
 
 
